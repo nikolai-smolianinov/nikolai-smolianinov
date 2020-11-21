@@ -1,16 +1,15 @@
-### Hi there 👋
+___
 
-<!--
-**nikolai-smolianinov/nikolai-smolianinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[telegram][telegram] | [linkedin][linkedin] | [vk.com][vk] | [instagram][instagram]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languagess][langStats]
+
+[telegram]: https://t.me/niko_lie
+[linkedin]: https://www.linkedin.com/in/nikolay-smolyaninov-505560200
+[vk]: https://vk.com/nik0_lie
+[instagram]: https://www.instagram.com/nik0_lie/
+
+
+[langStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=nikolai-smolianinov&layout=compact&card_width=500
