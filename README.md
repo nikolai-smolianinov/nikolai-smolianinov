@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm a Frontend Developer from Voronezh, Russia with over 6 years of experience.
+I'm a Frontend Developer from Voronezh, Russia
 
 
 ## 📱 Connect with Me
